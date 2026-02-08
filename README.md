@@ -1,4 +1,5 @@
-**# RAG Chatbot (Local)**
+
+# Local AI Knowledge Assistant using RAG (LangChain + FAISS + Local Embeddings)
 
 
 
