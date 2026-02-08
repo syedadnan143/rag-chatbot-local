@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Optional generated files
+*.faiss
+*.pkl
+*.log
