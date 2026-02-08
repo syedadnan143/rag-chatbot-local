@@ -1,5 +1,6 @@
 
 # Local AI Knowledge Assistant using RAG (LangChain + FAISS + Local Embeddings)
+<img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/d9acbde8-f04c-4e43-a8c3-e1347f2398b3" />
 
 
 
